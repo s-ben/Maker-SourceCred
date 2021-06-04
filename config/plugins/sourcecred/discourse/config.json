@@ -1,5 +1,5 @@
 {
-  "serverUrl": "https://forum.makerdao.com/",
+  "serverUrl": "https://forum.makerdao.com",
   "weights": {
     "categoryWeights": {
      "25": 1.75,
