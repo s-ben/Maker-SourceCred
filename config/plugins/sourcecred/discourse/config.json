@@ -4,10 +4,9 @@
     "categoryWeights": {
      "25": 1.75,
      "34": 1.75,
-     "14": 4,
-     "15": 2,
-     "16": 2,
-     "18": 2
+     "15": 7,
+     "16": 7,
+     "18": 7
     },
     "defaultCategoryWeight": 1,
     "defaultTagWeight": 1,
