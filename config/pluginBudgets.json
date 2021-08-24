@@ -1,0 +1,8 @@
+{
+  "intervalLength": "WEEKLY",
+  "plugins": {
+    "sourcecred/discourse": [
+      {"startTime": "2021-04-01", "budget": 1000}
+    ]
+  }
+}
