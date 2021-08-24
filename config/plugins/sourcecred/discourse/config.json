@@ -2,9 +2,9 @@
   "serverUrl": "https://forum.makerdao.com",
   "weights": {
     "categoryWeights": {
-     "25": 1.75,
-     "34": 1.75,
-     "14": 7
+     "25": 1,
+     "34": 1,
+     "14": 1
     },
     "defaultCategoryWeight": 1,
     "defaultTagWeight": 1,
